@@ -1,7 +1,5 @@
 # Epsilon-House-Archives
 
-From 42nd SC
-
 Dear Epsilon house: 
 
 The only reason you should be viewing and using this in large scale, is in the case where council is a mess and it is necessary for there to be an epsilon house to access this information
