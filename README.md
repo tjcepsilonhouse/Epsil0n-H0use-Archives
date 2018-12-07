@@ -10,5 +10,6 @@ It is optional (but highly recommended) to contribute to this archive for future
 
 May your council be competent enough to not need to copy paste past year projects
 
-Good luck,
+Good luck
+
 Ryan
