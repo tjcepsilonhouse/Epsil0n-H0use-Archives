@@ -12,5 +12,5 @@ May your council be competent enough to not need to copy paste past year project
 
 Good luck 
 
-Epsilon House member 
+Epsilon House member,
 Ryan
