@@ -1,8 +1,7 @@
 # Epsilon-House-Archives
-From 42nd SC,
+From 42nd SC,\n
 Dear Epsilon house: 
 
-Welcome to the Epsilon archive made by the 42nd SC Epsilon house (3rd Epsilon house committee)
 This repository serves as an archive containing past data, templates, project files to reference for future epsilon members.
 Hopefully, you may find the resources avaliable here useful to your council term and learn from our mistakes or build onto our ideas.
 
