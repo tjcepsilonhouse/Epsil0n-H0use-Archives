@@ -1,5 +1,5 @@
 # Epsilon-House-Archives
-From 42nd SC/n
+From 42nd SC
 Dear Epsilon house: 
 
 This repository serves as an archive containing past data, templates, project files to reference for future epsilon members.
